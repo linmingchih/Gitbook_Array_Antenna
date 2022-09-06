@@ -14,7 +14,7 @@ description: >-
 
 SBR+的激發源主要為天線的輻射場，可以是由其他HFSS天線設計所生成的輻射場，或是理論天B線的輻射場。激發源可為Tx或Rx，一張設計當中可以允許多個Tx, Rx。
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 ### SBR+物件網格
 
@@ -22,7 +22,7 @@ SBR+的激發源主要為天線的輻射場，可以是由其他HFSS天線設計
 
 由於SBR+是模擬射線在空氣中傳播，因此只有物件表面要網格，空氣不需要網格，因此也不需要定義Aiir Box。
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 ### 收斂條件
 
