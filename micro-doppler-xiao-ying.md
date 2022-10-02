@@ -1,2 +1,0 @@
-# Micro Doppler效應
-

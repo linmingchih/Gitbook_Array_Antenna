@@ -1,16 +1,6 @@
 # Table of contents
 
-* [電磁波傳播](README.md)
-  * [HFSS SBR+](<README (1).md>)
-  * [HFSS with Hybrid And Arrays](hfss-with-hybrid-and-arrays.md)
-  * [Micro Doppler效應](micro-doppler-xiao-ying.md)
-* [陣列天線](gong-shuai-mi-du/README.md)
-  * [HFSS的陣列天線設計方案](gong-shuai-mi-du/hfss-de-zhen-lie-tian-xian-she-ji-fang-an.md)
-  * [參數化建模](gong-shuai-mi-du/can-shu-hua-jian-mo.md)
-  * [模擬加速](gong-shuai-mi-du/mo-ni-jia-su.md)
-  * [波束成形](gong-shuai-mi-du/bo-shu-cheng-xing.md)
-  * [多波束設計](gong-shuai-mi-du/duo-bo-shu-she-ji.md)
-* [波束優化](bo-shu-you-hua/README.md)
+* [波束優化](README.md)
   * [用Script做波束計算](bo-shu-you-hua/yong-script-zuo-bo-shu-ji-suan.md)
   * [搭配優化演算法](bo-shu-you-hua/da-pei-you-hua-yan-suan-fa.md)
   * [激發推送](bo-shu-you-hua/ji-fa-tui-song.md)
